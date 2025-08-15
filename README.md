@@ -16,7 +16,7 @@ All of my projects are available [here](https://github.com/usman1515?tab=reposit
 <h2 align="left">Nerd Corner</h2>
 
 - **Arsenal of choice:** Fedora + i3 TWM + Tmux + Neovim.
-- **Keyboard:** Keychron V2 max with Akko Penguin Switches (main keyboard). Currently diving into world of split ergonomic keybaords and trying to migrate to a Totem.
+- **Keyboard:** Keychron V2 max with Gateron Baby Kangaroos V2 (main keyboard). Currently diving into world of split ergonomic keybaords and trying to migrate to a Totem.
 
 <h2 align="left">Currently</h2>
 
